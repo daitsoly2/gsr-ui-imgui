@@ -1,0 +1,17 @@
+# Compiled sibs files
+sibs-build/
+compile_commands.json
+
+**/xdg-output-unstable-v1-client-protocol.h
+**/xdg-output-unstable-v1-protocol.c
+
+depends/.wraplock
+
+.cache
+build/
+# 开发构建目录（RmlUi 验证）
+/build-check/
+/build-norm/
+/build-rmlui/
+/build-imgui/
+/build-default/

@@ -1,0 +1,3 @@
+option('capabilities', type : 'boolean', value : true, description : 'Set binary setuid capability on gsr-global-hotkeys binary to allow global hotkeys')
+option('desktop-files', type : 'boolean', value : true, description : 'Install desktop files')
+option('imgui', type : 'boolean', value : true, description : 'Build the new Dear ImGui based user interface (default; set to false for the old widget UI)')

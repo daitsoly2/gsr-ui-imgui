@@ -1,0 +1,6 @@
+[submodule "depends/mglpp"]
+	path = depends/mglpp
+	url = https://repo.dec05eba.com/mglpp
+[submodule "third_party/imgui"]
+	path = third_party/imgui
+	url = https://github.com/ocornut/imgui
